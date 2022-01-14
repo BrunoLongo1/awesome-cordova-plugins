@@ -16,6 +16,8 @@ import { Cordova, AwesomeCordovaNativePlugin, Plugin } from '@awesome-cordova-pl
  *
  * this.flashlight.switchOn();
  *
+ * this.flashlight.switchOff();
+ *
  * ```
  */
 @Plugin({
